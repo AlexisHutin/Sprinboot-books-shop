@@ -1,0 +1,36 @@
+com/tactfactory/demo/controllers/RoleController.java
+ com.tactfactory.demo.controllers.RoleController
+com/tactfactory/demo/controllers/UserController.java
+ com.tactfactory.demo.controllers.UserController
+com/tactfactory/demo/entities/Book.java
+ com.tactfactory.demo.entities.Book
+com/tactfactory/demo/repositories/UserRepository.java
+ com.tactfactory.demo.repositories.UserRepository
+com/tactfactory/demo/services/UserService.java
+ com.tactfactory.demo.services.UserService
+com/tactfactory/demo/repositories/BookRepository.java
+ com.tactfactory.demo.repositories.BookRepository
+com/tactfactory/demo/entities/User.java
+ com.tactfactory.demo.entities.User
+com/tactfactory/demo/entities/Role.java
+ com.tactfactory.demo.entities.Role
+com/tactfactory/demo/services/RoleService.java
+ com.tactfactory.demo.services.RoleService
+com/tactfactory/demo/dtos/BookDto.java
+ com.tactfactory.demo.dtos.BookDto
+com/tactfactory/demo/controllers/BookController.java
+ com.tactfactory.demo.controllers.BookController
+com/tactfactory/demo/controllers/BaseCrudController.java
+ com.tactfactory.demo.controllers.BaseCrudController
+com/tactfactory/demo/controllers/TestController.java
+ com.tactfactory.demo.controllers.TestController
+com/tactfactory/demo/dtos/UserDto.java
+ com.tactfactory.demo.dtos.UserDto
+com/tactfactory/demo/entities/BaseEntity.java
+ com.tactfactory.demo.entities.BaseEntity
+com/tactfactory/demo/services/BookService.java
+ com.tactfactory.demo.services.BookService
+com/tactfactory/demo/repositories/RoleRepository.java
+ com.tactfactory.demo.repositories.RoleRepository
+com/tactfactory/demo/Demo1Application.java
+ com.tactfactory.demo.Demo1Application
